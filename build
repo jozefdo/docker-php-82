@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build  -t alpine-php81 .
+docker build  -t alpine-php82 .
